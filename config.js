@@ -24,8 +24,8 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "Of course",                                        // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            noBtn: "Ew 8/10",                                        // Text for "No" button
+            secretAnswer: "Okay na ako sa 8/10, I love you! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Will you be my Valentine on February 14th? 🌹",      // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "Ayoko nga sa 8/10"                                                 // Text for "No" button
+            noBtn: "Sabi ngang ayoko sa 8/10"                                                 // Text for "No" button
         }
     },
 
